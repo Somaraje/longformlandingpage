@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(115, 255, 0);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.header{
+    background-color:aqua;
+    color: black;
+    padding: 20px;
+    
+}
+.landing{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:blueviolet;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+button{
+    margin:10px;
+    padding: 10px;
+    color: black;
+    background-color: brown;
+    border-radius: 5px;
+    cursor: pointer;
+}
